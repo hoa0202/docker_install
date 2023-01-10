@@ -1,4 +1,5 @@
-#!/bin/sh
+#!/bin/bash
+
 sudo apt-get update
 
 # Install dependencies
